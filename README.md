@@ -7,5 +7,12 @@ There is a csv file for every dataset analyzed that contains the names and reeer
 
 ![Image Alt text](/images/aq2009_0000080.png)
 
+Noise samples 
+
+![Image Alt text](/images/txed_172405.png)
+![Image Alt text](/images/stead_0022054.png)
+![Image Alt text](/images/pnw_000119.png)
+![Image Alt text](/images/instance_0002650.png)
+
 
 Manuscript is coming
