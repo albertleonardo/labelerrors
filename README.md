@@ -20,12 +20,23 @@ Some examples are shown here, mostly earthquakes that are not labeled might hurt
 
 ![Image Alt text](/images/aq2009_0000080.png)
 
-Noise samples 
+## Noise samples 
+We quantified the number of noise samples that do contain unlabeled earthquakes, here some examples from the four datasets that contain noise samples. 
 
 ![Image Alt text](/images/txed_172405.png)
 ![Image Alt text](/images/stead_0022054.png)
 ![Image Alt text](/images/pnw_000119.png)
 ![Image Alt text](/images/instance_0002650.png)
+
+
+## Other errors
+We found other forms of errors, for which their prevalence was not quantified (yet)
+The data does not contain the labeled arrivals, due to archival or instrumental issues
+![Image Alt text](/images/ceed_1001553.png)
+
+The labels are inaccurate, for instance the S arrival label in this sample is too early
+![Image Alt text](/images/instance_0548673.png)
+
 
 
 Manuscript is coming
