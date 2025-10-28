@@ -5,6 +5,9 @@ There are performance imporvements from culled datasets beyond what can be gaine
 See for example and inspiration:
 [https://www.youtube.com/watch?v=06-AZXmwHjo] minute 5-10 
 
+For analog studies in other fields and other datasets check this one out:
+[https://labelerrors.com/]
+
 
 
 We documented a series of erros or faulty labels in a number of machine learning datasets, focused on local earthquake recordings
