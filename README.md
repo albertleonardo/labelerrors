@@ -1,6 +1,6 @@
 # Pervasive Label Errors in Seismological Machine Learning Datasets
 This is an effort to improve the datasets used for training deep learning models for observational seismology.
-There are performance imporvements from culled datasets beyond what can be gained from addig model complexity with a fixed dataset.
+There are performance imporvements from culled datasets beyond what can be gained from adding model complexity with a fixed dataset.
 See for example and inspiration:
 [https://www.youtube.com/watch?v=06-AZXmwHjo] minute 5-10 
 
@@ -11,7 +11,7 @@ For analog studies in other fields and other datasets check this one out:
 
 We documented a series of erros or faulty labels in a number of machine learning datasets, focused on local earthquake recordings
 
-There is a csv file for every dataset analyzed that contains the names and reeerence to the exmaples in the datasets per their Seisbench metadata. This is with the goal of avoiding them when training and testing.
+There is a csv file for every dataset analyzed that contains the names and reference to the examples in the datasets per their Seisbench metadata. This is with the goal of avoiding them when training and testing.
 
 ## Examples
 
