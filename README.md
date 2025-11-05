@@ -1,4 +1,3 @@
-
 # Pervasive Label Errors in Seismological Machine Learning Datasets
 This is an effort to improve the datasets used for training deep learning models for observational seismology.
 There are performance imporvements from culled datasets beyond what can be gained from addig model complexity with a fixed dataset.
