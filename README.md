@@ -38,4 +38,5 @@ The labels are inaccurate, for instance the S arrival label in this sample is to
 
 
 
-Manuscript is coming
+The preprint is here:
+https://arxiv.org/abs/2511.09805
